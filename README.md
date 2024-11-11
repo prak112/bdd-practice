@@ -8,7 +8,7 @@
 
 - In the practice project, we are building an example application called 'Shouty' - a social network which can only be “heard” by people who are nearby.
 
-- Detailed notes about the learnings cna be found [on Google Docs](https://docs.google.com/document/d/1JZ2JUtGRxU9gUtF3OTyXZeZFy3W9chpG-dRPmBsnckU/edit?usp=sharing)
+- Detailed notes about the learnings can be found [on Google Docs](https://docs.google.com/document/d/1JZ2JUtGRxU9gUtF3OTyXZeZFy3W9chpG-dRPmBsnckU/edit?usp=sharing)
 
 <hr>
 <br>
