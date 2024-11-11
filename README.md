@@ -1,5 +1,14 @@
 # Overview
- Behavior-Driven Development practice application developed through hands-on exercises from [Cucumber School](https://school.cucumber.io/courses/bdd-with-cucumber-javascript) using `cucumber-js`
+ - Behavior-Driven Development (BDD) practice application developed through hands-on exercises from [Cucumber School](https://school.cucumber.io/courses/bdd-with-cucumber-javascript) using `cucumber-js`
+
+ - BDD involves three important phases of development of a software project/application :
+    - Discovery (discussion through multiple perspectives on the scope of the behavior, aka, scenario)
+    - Formulation (formulate the scenario through *Gherkin*)
+    - Automation (*Cucumber* verifies the formulated scenario with the actual system behavior)
+
+- In the practice project, we are building an example application called 'Shouty' - a social network which can only be “heard” by people who are nearby.
+
+- Detailed notes about the learnings cna be found [on Google Docs](https://docs.google.com/document/d/1JZ2JUtGRxU9gUtF3OTyXZeZFy3W9chpG-dRPmBsnckU/edit?usp=sharing)
 
 <hr>
 <br>
